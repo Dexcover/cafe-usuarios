@@ -30,3 +30,6 @@
 
  /* semilla para tokens*/
  process.env.SEED= process.env.SEED || 'secret';
+
+ /*GOOGLE SIG ID */
+ process.env.CLIENT_ID=process.env.CLIENT_ID|| '1014493835237-1qrv6e4hvjm1vl5fqjfdh23nrijurmlq.apps.googleusercontent.com';

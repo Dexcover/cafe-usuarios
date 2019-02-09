@@ -26,7 +26,7 @@
  24 horas
  30 dias
  */
- process.env.CADUCIDAD_TOKEN =60*60*24*30;
+ process.env.CADUCIDAD_TOKEN ='48h';
 
  /* semilla para tokens*/
  process.env.SEED= process.env.SEED || 'secret';

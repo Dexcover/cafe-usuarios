@@ -1,5 +1,5 @@
 
-var jwt = require('jsonwebtoken');
+const jwt = require('jsonwebtoken');
 
 //===============
 //Verificar token
